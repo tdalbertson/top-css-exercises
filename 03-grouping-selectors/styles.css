@@ -1,0 +1,21 @@
+.button1 {
+    background-color: #000000;
+    color: #fff;
+}
+
+.button2 {
+    background-color:#ff0;
+}
+
+.myButton {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+/* Other solution for combining
+.button1,
+.button2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+*/
