@@ -43,16 +43,16 @@ ul {
   padding: 0px 1rem;
 }
 
-header, footer {
+header nav, footer nav {
   display: flex;
   justify-content: space-between;
 }
 
-.footer {
+footer {
   background-color: #eee;
 }
 
-.content {
+main {
   display: flex;
   flex-direction: column;
   align-items: center;
