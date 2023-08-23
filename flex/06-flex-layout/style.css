@@ -43,7 +43,7 @@ ul {
   padding: 0px 1rem;
 }
 
-.header, .footer {
+header, footer {
   display: flex;
   justify-content: space-between;
 }
